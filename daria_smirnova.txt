@@ -1,0 +1,3 @@
+woman
+age 26
+ginger
